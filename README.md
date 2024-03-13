@@ -24,7 +24,8 @@ This project demonstrates the process of obtaining the base Apache image, modify
 
 ## Implementation
 
-See Bash commands with comments in the  [bash_script file](https://github.com/DimitryZH/handcrafting-container-image/blob/main/bash_script.sh)
+- Bash commands with comments in the  [bash_script file](https://github.com/DimitryZH/handcrafting-container-image/blob/main/bash_script.sh)
+- Versioned images on [Docker Hub](https://hub.docker.com/repository/docker/dmitryzhuravlev/widgetfactory/general)
 
 ## Summary
 
