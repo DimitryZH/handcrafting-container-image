@@ -28,4 +28,6 @@ See Bash commands with comments in the  [bash_script file](https://github.com/Di
 
 ## Summary
 
-Creating a container image by hand allows for quick testing using Linux commands. It enables automation in building purpose-built containers from an existing image. Handcrafting saves resources, as seen in the significant size reduction from v1 to v2. This technique is valuable for troubleshooting problems in existing containers, allowing you to save and run containers from a specific state for debugging.
+Creating a container image by hand allows for quick testing using Linux commands. It enables automation in building purpose-built containers from an existing image. Handcrafting saves resources, as seen in the significant size reduction from v1 to v2  (screenshot below). This technique is valuable for troubleshooting problems in existing containers, allowing you to save and run containers from a specific state for debugging.
+
+![images-size](https://github.com/DimitryZH/handcrafting-container-image/assets/146372946/4f1cb702-4321-42ef-9b26-90b60c0fbbf0)
